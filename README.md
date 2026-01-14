@@ -10,9 +10,8 @@
 
 - 🔭 Currently exploring: Machine Learning applications and Object-Oriented Design
 - 🌱 Learning: Advanced algorithms, ML fundamentals, and user-centered design
-- 🏆 Dean's List recipient (Fall 2025) | ML Essentials Bootcamp Graduate
+- 🏆 Dean's List recipient (Fall 2025) 
 - 💼 Secretary @ Northeastern AI Club - coordinating 200+ members across 5 teams
-- ⚡ Fun fact: Native Italian speaker and Formula 1 enthusiast
 
 ---
 
@@ -31,5 +30,5 @@
 
 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giada-palazzo-5581b42a9/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palazzo.g@northeastern.edu)
+LinkedIn: https://www.linkedin.com/in/giada-palazzo-5581b42a9/
+Email: palazzo.g@northeastern.edu
