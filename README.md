@@ -1,6 +1,6 @@
 # Hi, I'm Giada Palazzo 👋
 
-🎓 **Computer Science & Philosophy** @ Northeastern University  
+🎓 I'm a Computer Science and Philosophy major at Northeastern University  
 🧠 Interested in human-centered AI, software design, and ethical technology  
 🌍 Fluent in **English, Italian, and French**
 
