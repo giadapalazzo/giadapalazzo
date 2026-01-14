@@ -1,34 +1,56 @@
 # Hi, I'm Giada Palazzo 👋
 
 🎓 **Computer Science & Philosophy** @ Northeastern University  
-💻 Building intuitive software solutions with a focus on **AI and UX Design**  
-🌍 Fluent in English, Italian, and French
+🧠 Interested in human-centered AI, software design, and ethical technology  
+🌍 Fluent in **English, Italian, and French**
 
 ---
 
-## 🚀 About Me
-
-- 🔭 Currently exploring: Machine Learning applications and Object-Oriented Design
-- 🌱 Learning: Advanced algorithms, ML fundamentals, and user-centered design
-- 🏆 Dean's List recipient (Fall 2025) 
-- 💼 Secretary @ Northeastern AI Club - coordinating 200+ members across 5 teams
-
----
-
-## 🛠️ Technologies & Tools
-
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
-
-**Design:**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+## 🔍 Focus & Interests
+- 🤖 Machine Learning foundations and real-world applications  
+- 🧩 Object-Oriented Design and algorithmic problem solving  
+- 🎨 UX/UI design with an emphasis on usability and accessibility  
+- 📚 Philosophy of technology, ethics, and human–computer interaction  
 
 ---
 
+## 🚀 Projects
 
-🤝 Let's Connect!
+**Klondike Solitaire Game**  
+- Built a full-featured Klondike Solitaire game in Java using **MVC architecture**  
+- Implemented multiple rule variants with clean separation between game logic and UI  
+- Focused on object-oriented design, extensibility, and maintainable code  
+- **Java | MVC | OOP**
 
-LinkedIn: https://www.linkedin.com/in/giada-palazzo-5581b42a9/
-Email: palazzo.g@northeastern.edu
+**Sanguine Card Game**  
+- Developed a strategic two-player card game featuring territory control mechanics  
+- Designed and implemented multiple **AI strategies** for competitive gameplay  
+- Built an event-driven GUI using **Java Swing**  
+- **Java | AI Strategies | Event-Driven Design**
+---
+
+## 🧑‍💼 Experience & Leadership
+**Secretary — Northeastern AI Club**  
+- Coordinated 200+ members across 5 teams  
+- Organized meetings, managed communication, and supported club events  
+
+**Dean’s List** — Fall 2025
+
+---
+
+## 🛠 Technologies & Tools
+**Languages:** Java, Kotlin, OCaml  
+**Design:** Figma  
+**Concepts:** Object-Oriented Programming, Algorithms, UX Design Principles  
+
+---
+
+## 💡 What I Care About
+I’m interested in how software shapes human behavior and decision-making.  
+My background in philosophy informs how I think about ethics, responsibility, and design in technology.
+
+---
+
+## 🌐 Let’s Connect
+🔗 LinkedIn: https://www.linkedin.com/in/giada-palazzo-5581b42a9  
+📧 Email: palazzo.g@northeastern.edu
