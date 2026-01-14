@@ -28,11 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Giada's GitHub stats](https://github-readme-stats.vercel.app/api?username=giadapalazzo&show_icons=true&theme=tokyonight)
-
----
 
 🤝 Let's Connect!
 
